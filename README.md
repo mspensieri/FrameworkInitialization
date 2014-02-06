@@ -1,0 +1,1 @@
+This is a simple code sample illustrating how to initialize an SDK (.framework) without the need for the integrating developer to call into your SDK.
